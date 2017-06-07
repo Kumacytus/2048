@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2048" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Introducing Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LeetCode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PyCharm_projects" vcs="Git" />
+  </component>
+</project>
